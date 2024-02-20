@@ -1,6 +1,7 @@
 Preview
 
-![image](https://github.com/BruceWayneX/BusquedaAutomoviles.github.io/assets/99347200/b778a844-4786-45d6-9242-ad121ad856d0)
+![image](https://github.com/BruceWayneX/BusquedaAutomoviles.github.io/assets/99347200/ba8732f5-b9ca-43e7-92b3-fe10305b3477)
+
 
 https://brucewaynex.github.io/BusquedaAutomoviles.github.io/
 
